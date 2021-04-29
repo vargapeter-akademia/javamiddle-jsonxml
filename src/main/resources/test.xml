@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" ?> <!-- Prolog -->
+<root>
+
+    <!-- Jól formáltság -->
+    <!-- Validálás -->
+    <child attribute="value">
+        <child3/>
+    </child>
+
+    <Child2>Child</Child2>
+
+    <servlet xmlns="https://blah.hu">
+        <spring:servlet xmlns:spring="https://spring.hu">
+
+        </spring:servlet>
+        <servlet>
+
+        </servlet>
+    </servlet>
+
+    <items>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+    </items>
+
+</root>

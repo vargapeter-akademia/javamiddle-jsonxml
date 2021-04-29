@@ -1,0 +1,7 @@
+<library xmlns="http://library.hu">
+  <name>string</name>
+  <book id="10">
+    <author>string</author>
+    <title>string</title>
+  </book>
+</library>

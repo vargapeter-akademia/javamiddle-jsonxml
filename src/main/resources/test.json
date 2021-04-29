@@ -1,0 +1,12 @@
+{
+  "key1": "value",
+  "key2": 10,
+  "key3": [
+    10, 11, 12
+  ],
+  "key4": {
+    "author": "Joshue Bloch",
+    "title": "Effective Java",
+    "id": 32144212
+  }
+}
